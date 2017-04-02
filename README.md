@@ -5,11 +5,11 @@
    
 </head>
   <body>
-    <h1>Super Sparty Bros.</h1>
+    <h1>Super Sparty Bros- 2D GAME.</h1>
     <p>Created by Shai</p>
     <img src="screenshot.png" alt="" class="image-border" height="300" width="480">
     <ul class="menu">
-      <li><br>
+      <li>Unity 3D<br>
       </li>
       <li><a href="WebGL/index.html" class="menuButton">Play Online <br>
           (WebGL browser support required)</a></li>
@@ -33,6 +33,6 @@
       <ol>
       </ol>
     </div>
-    <p>© Michigan State University. All Rights Reserved. </p>
+   
   </body>
 </html>
