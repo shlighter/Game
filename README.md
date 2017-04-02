@@ -28,12 +28,8 @@
       <p>Game Modifications:</p>
       <ol>
       </ol>
-      <span style="color: rgb(55, 58, 60); font-family: OpenSans, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-line; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); display: inline !important; float: none;">-New platform
--New coin type (bonus)
--Added walls
--New background objects
--More enemies
--Added 2nd level</span>
+      <span style="color: rgb(55, 58, 60); font-family: OpenSans, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-line; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); display: inline !important; float: none;">-
+</span>
       <ol>
       </ol>
     </div>
