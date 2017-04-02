@@ -5,11 +5,11 @@
    
 </head>
   <body>
-    <h1>Super Sparty Bros- 2D GAME.</h1>
+    <h1>Super Sparty Bros- 2D GAME. Unity 3D</h1>
     <p>Created by Shai</p>
     <img src="screenshot.png" alt="" class="image-border" height="300" width="480">
     <ul class="menu">
-      <li>Unity 3D<br>
+      <li><br>
       </li>
       <li><a href="WebGL/index.html" class="menuButton">Play Online <br>
           (WebGL browser support required)</a></li>
@@ -25,7 +25,7 @@
     </div>
     <br>
     <div class="modifications">
-      <p>Game Modifications:</p>
+      <p>Unity 3D</p>
       <ol>
       </ol>
       <span style="color: rgb(55, 58, 60); font-family: OpenSans, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-line; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); display: inline !important; float: none;">-
